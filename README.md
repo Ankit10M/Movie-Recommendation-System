@@ -6,19 +6,25 @@ An AI-powered Movie Recommendation System that suggests similar movies based on 
 
 ## 🚀 Live Demo
 
-* 🌐 **Live URL:** [https://movie-recommendation-system-platform.streamlit.app]
+* 🌐 **Live URL:** https://movie-recommendation-system-platform.streamlit.app
 ---
 
 ## 📌 Features
 
 ✅ Search movies by title
+
 ✅ Content-based movie recommendation system
+
 ✅ Dynamic recommendations displayed instantly
+
 ✅ Movie poster grid layout
+
 ✅ Movie details view
-✅ Query parameter navigation (shareable URLs)
+
 ✅ FastAPI backend integration
+
 ✅ Machine Learning powered recommendations
+
 ✅ Responsive UI using Streamlit
 
 ---
